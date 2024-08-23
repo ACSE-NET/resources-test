@@ -2,7 +2,7 @@
 title: CEMC CS Educators Resources
 ---
 
-A hearty welcome to the [ACSE](https://acse.net) archive for resources shared through the Summer Conference for Computer Studies Educators, organized by the [CEMC](https://www.cemc.uwaterloo.ca) at the [University of Waterloo](https://uwaterloo.ca).
+This is the [ACSE](https://acse.net) archive for resources shared through the Summer Conference for Computer Studies Educators, organized by the [CEMC](https://www.cemc.uwaterloo.ca) at the [University of Waterloo](https://uwaterloo.ca).
 
 #### By year
 
