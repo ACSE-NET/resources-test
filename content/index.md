@@ -7,3 +7,5 @@ Welcome to the [ACSE](https://acse.net) archive for resources shared through the
 #### By year
 
 - [[2024/index|2024]]
+
+🚀
