@@ -16,8 +16,8 @@ My resource features the two major culminating task assignments (1 and 2) that w
 
 ## Files
 
-*   [CEMC2024\_-\_McD\_-\_\_Assignment\_1\_-\_DC\_Connect\_-\_Dual\_Credit\_-\_Oct\_30\_Day\_38.docx](resources/Kiley_McDaniel/CEMC2024_-_McD_-__Assignment_1_-_DC_Connect_-_Dual_Credit_-_Oct_30_Day_38.docx)
-*   [CEMC\_2024\_-\_Assignment\_2\_-\_My\_Personal\_Dictionary.docx](resources/Kiley_McDaniel/CEMC_2024_-_Assignment_2_-_My_Personal_Dictionary.docx)
-*   [CEMC\_2024\_ICS3C\_ICS4C\_Python\_programming\_AND\_pen\_testing\_lab\_-\_Kiley\_McDaniel.txt](resources/Kiley_McDaniel/CEMC_2024_ICS3C_ICS4C_Python_programming_AND_pen_testing_lab_-_Kiley_McDaniel.txt)
-*   [\_My\_Personal\_Dictionary.docx](resources/Kiley_McDaniel/_My_Personal_Dictionary.docx)
-*   [lab05\_instructions\_and\_rubric.docx](resources/Kiley_McDaniel/lab05_instructions_and_rubric.docx)
+*   [CEMC2024\_-\_McD\_-\_\_Assignment\_1\_-\_DC\_Connect\_-\_Dual\_Credit\_-\_Oct\_30\_Day\_38.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Kiley_McDaniel/CEMC2024_-_McD_-__Assignment_1_-_DC_Connect_-_Dual_Credit_-_Oct_30_Day_38.docx)
+*   [CEMC\_2024\_-\_Assignment\_2\_-\_My\_Personal\_Dictionary.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Kiley_McDaniel/CEMC_2024_-_Assignment_2_-_My_Personal_Dictionary.docx)
+*   [CEMC\_2024\_ICS3C\_ICS4C\_Python\_programming\_AND\_pen\_testing\_lab\_-\_Kiley\_McDaniel.txt](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Kiley_McDaniel/CEMC_2024_ICS3C_ICS4C_Python_programming_AND_pen_testing_lab_-_Kiley_McDaniel.txt)
+*   [\_My\_Personal\_Dictionary.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Kiley_McDaniel/_My_Personal_Dictionary.docx)
+*   [lab05\_instructions\_and\_rubric.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Kiley_McDaniel/lab05_instructions_and_rubric.docx)

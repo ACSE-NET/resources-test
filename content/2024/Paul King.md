@@ -16,6 +16,6 @@ Python and Java (The files are two web pages that appeared on D2L along with the
 
 ## Files
 
-*   [Unit1\_L5\_Python\_IO\_math\_Formulae.html](resources/Paul_King/Unit1_L5_Python_IO_math_Formulae.html)
-*   [Unit1\_L6\_Java\_IO\_math\_Formulae.html](resources/Paul_King/Unit1_L6_Java_IO_math_Formulae.html)
-*   [lessons.css](resources/Paul_King/lessons.css)
+*   [Unit1\_L5\_Python\_IO\_math\_Formulae.html](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Paul_King/Unit1_L5_Python_IO_math_Formulae.html)
+*   [Unit1\_L6\_Java\_IO\_math\_Formulae.html](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Paul_King/Unit1_L6_Java_IO_math_Formulae.html)
+*   [lessons.css](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Paul_King/lessons.css)

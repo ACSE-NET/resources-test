@@ -16,5 +16,5 @@ Students are expected to apply the concepts they learned; viz, IP addressing, su
 
 ## Files
 
-*   [Abstract.pdf](resources/Raj_Nachimuthu/Abstract.pdf)
-*   [Assignment\_-\_Designing\_a\_network.pdf](resources/Raj_Nachimuthu/Assignment_-_Designing_a_network.pdf)
+*   [Abstract.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Raj_Nachimuthu/Abstract.pdf)
+*   [Assignment\_-\_Designing\_a\_network.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Raj_Nachimuthu/Assignment_-_Designing_a_network.pdf)

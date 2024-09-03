@@ -15,9 +15,9 @@ This is an introduction to the Rust programming language including notes, exerci
 
 ## Files
 
-*   [AssignmentStructs.docx](resources/Paul_Guse/AssignmentStructs.docx)
-*   [InClassAssignment.docx](resources/Paul_Guse/InClassAssignment.docx)
-*   [PracticeQuizBasicsOfRust.docx](resources/Paul_Guse/PracticeQuizBasicsOfRust.docx)
-*   [QuizRustSearchingSorting2DArrayVectors.docx](resources/Paul_Guse/QuizRustSearchingSorting2DArrayVectors.docx)
-*   [RustResourcesNotesExercises.docx](resources/Paul_Guse/RustResourcesNotesExercises.docx)
-*   [TestBasicsOfRust.docx](resources/Paul_Guse/TestBasicsOfRust.docx)
+*   [AssignmentStructs.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Paul_Guse/AssignmentStructs.docx)
+*   [InClassAssignment.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Paul_Guse/InClassAssignment.docx)
+*   [PracticeQuizBasicsOfRust.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Paul_Guse/PracticeQuizBasicsOfRust.docx)
+*   [QuizRustSearchingSorting2DArrayVectors.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Paul_Guse/QuizRustSearchingSorting2DArrayVectors.docx)
+*   [RustResourcesNotesExercises.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Paul_Guse/RustResourcesNotesExercises.docx)
+*   [TestBasicsOfRust.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Paul_Guse/TestBasicsOfRust.docx)

@@ -17,4 +17,4 @@ This resource is a presentation that I have used in my ICS3U or ICS4U courses. I
 
 ## Files
 
-*   [Learning\_Java.pptx](resources/Ram_Etwaroo/Learning_Java.pptx)
+*   [Learning\_Java.pptx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Ram_Etwaroo/Learning_Java.pptx)

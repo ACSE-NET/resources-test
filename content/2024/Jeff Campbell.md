@@ -15,4 +15,4 @@ This is an assignment that I've used in ICS4U as a way to review writing methods
 
 ## Files
 
-*   [7\_Reasons\_This\_Assignment\_Will\_Be\_More\_Interesting\_Than\_You\_Think\_(Number\_3\_Will\_Surprise\_You).docx](resources/Jeff_Campbell/7_Reasons_This_Assignment_Will_Be_More_Interesting_Than_You_Think_(Number_3_Will_Surprise_You).docx)
+*   [7\_Reasons\_This\_Assignment\_Will\_Be\_More\_Interesting\_Than\_You\_Think\_(Number\_3\_Will\_Surprise\_You).docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Jeff_Campbell/7_Reasons_This_Assignment_Will_Be_More_Interesting_Than_You_Think_(Number_3_Will_Surprise_You).docx)

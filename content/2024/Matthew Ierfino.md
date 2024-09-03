@@ -15,6 +15,6 @@ I've attached a zip file containing a Processing sketch, and a PDF document for 
 
 ## Files
 
-*   [AIGame2.zip](resources/Matthew_Ierfino/AIGame2.zip)
-*   [Intro\_to\_Collision\_Detection\_Activity.zip](resources/Matthew_Ierfino/Intro_to_Collision_Detection_Activity.zip)
-*   [collision\_activity.zip](resources/Matthew_Ierfino/collision_activity.zip)
+*   [AIGame2.zip](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Matthew_Ierfino/AIGame2.zip)
+*   [Intro\_to\_Collision\_Detection\_Activity.zip](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Matthew_Ierfino/Intro_to_Collision_Detection_Activity.zip)
+*   [collision\_activity.zip](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Matthew_Ierfino/collision_activity.zip)

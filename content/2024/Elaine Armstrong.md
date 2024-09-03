@@ -15,5 +15,5 @@ The popcorn scramble can be used as a quick intro to sequential programming. We 
 
 ## Files
 
-*   [Scenery-Java\_3U\_methods\_\_objects.pdf](resources/Elaine_Armstrong/Scenery-Java_3U_methods__objects.pdf)
-*   [Sequential\_intro\_-\_Popcorn\_Instruction\_Scramble.pdf](resources/Elaine_Armstrong/Sequential_intro_-_Popcorn_Instruction_Scramble.pdf)
+*   [Scenery-Java\_3U\_methods\_\_objects.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Elaine_Armstrong/Scenery-Java_3U_methods__objects.pdf)
+*   [Sequential\_intro\_-\_Popcorn\_Instruction\_Scramble.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Elaine_Armstrong/Sequential_intro_-_Popcorn_Instruction_Scramble.pdf)
