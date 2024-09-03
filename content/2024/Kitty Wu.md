@@ -5,11 +5,11 @@ tags:
   - hardware
 ---
 
-## Summary
+## Title
 
 ICD2O - Hardware, Software & Innovation
 
-## Description
+## Abstract
 
 Shopping guide for various industries. You and your partners will research and analyze hardware and software requirements for computers in different industries to make recommendations based on user needs and purposes.
 

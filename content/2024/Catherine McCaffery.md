@@ -8,11 +8,11 @@ tags:
   - ICS4U
 ---
 
-## Summary
+## Title
 
 Assignment: Exploring Data Privacy Concerns
 
-## Description
+## Abstract
 
 Getting students to recognize that blindly accepting the terms of use and privacy policies puts their personal information at risk. Included is an assignment with rubric along with an example privacy policy and terms of service agreement for a game app. Feel free to update the sample PP and TOS agreements to reflect a newer/popular app at the time for students with limited access to the Internet.
 

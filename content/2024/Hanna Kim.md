@@ -5,11 +5,11 @@ tags:
   - security
 ---
 
-## Summary
+## Title
 
 Cybersecurity ICD2O
 
-## Description
+## Abstract
 
 Lessons and assignments
 

@@ -4,11 +4,11 @@ tags:
   - AI
 ---
 
-## Summary
+## Title
 
 Intro to AI
 
-## Description
+## Abstract
 
 Complete unit of study.
 

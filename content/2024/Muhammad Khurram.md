@@ -5,11 +5,11 @@ tags:
   - abstraction
 ---
 
-## Summary
+## Title
 
 Objects in JavaScript
 
-## Description
+## Abstract
 
 PowerPoint
 

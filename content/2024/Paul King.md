@@ -6,11 +6,11 @@ tags:
   - mathematics
 ---
 
-## Summary
+## Title
 
 Input and Output: Working With Math Formulas
 
-## Description
+## Abstract
 
 Python and Java (The files are two web pages that appeared on D2L along with the CSS file they use.)
 

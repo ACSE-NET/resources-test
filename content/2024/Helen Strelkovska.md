@@ -5,11 +5,11 @@ tags:
   - TEJ2O
 ---
 
-## Summary
+## Title
 
 If and loops using Arduino
 
-## Description
+## Abstract
 
 Handouts and a worksheet for the TEJ course. These materials introduce students to if statements and loops for the first time using Arduino.
 

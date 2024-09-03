@@ -6,11 +6,11 @@ tags:
   - networking
 ---
 
-## Summary
+## Title
 
 an end of unit assignment for TEJ4M, TEN4M courses.
 
-## Description
+## Abstract
 
 Students are expected to apply the concepts they learned; viz, IP addressing, subnetting, subnet mask and CDIR notation, and types of IP addresses etc. Communication is an essential component of this evaluation.
 

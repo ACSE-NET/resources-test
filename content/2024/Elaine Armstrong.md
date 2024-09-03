@@ -5,11 +5,11 @@ tags:
   - ICS3U
 ---
 
-## Summary
+## Title
 
 Introduction to sequential programming
 
-## Description
+## Abstract
 
 The popcorn scramble can be used as a quick intro to sequential programming. We discuss how some steps must be in a particular order but others don't really matter (ie throwing out the garbage while the popcorn is popping vs after you have put the popcorn in a bowl). I am not the original creator but don't remember when/how it came into my possession.
 

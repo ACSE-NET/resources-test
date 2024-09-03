@@ -4,11 +4,11 @@ tags:
   - ICS4U
 ---
 
-## Summary
+## Title
 
 ICS4U - tree data structures
 
-## Description
+## Abstract
 
 This lesson package for ICS4U provides a lesson plan for teaching tree data structures and the following supplementary materials:
 

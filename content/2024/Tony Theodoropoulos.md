@@ -5,11 +5,11 @@ tags:
   - flowcharts
 ---
 
-## Summary
+## Title
 
 Flowchart Assignment
 
-## Description
+## Abstract
 
 A flowchart assignment I use in my ICS3U class.
 
