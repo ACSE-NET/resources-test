@@ -14,5 +14,5 @@ The challenge of the concept was easy but having technology work in a limited ti
 
 ## Files
 
-*   [PiPico-AbstractRead1st.txt.txt](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Brendan_ONeil/PiPico-AbstractRead1st.txt.txt)
-*   [PiPico-CPT-CarOrClaw-1stYear.zip](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Brendan_ONeil/PiPico-CPT-CarOrClaw-1stYear.zip)
+*   [PiPico-AbstractRead1st.txt.txt](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Brendan_ONeil/PiPico-AbstractRead1st.txt.txt)
+*   [PiPico-CPT-CarOrClaw-1stYear.zip](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Brendan_ONeil/PiPico-CPT-CarOrClaw-1stYear.zip)

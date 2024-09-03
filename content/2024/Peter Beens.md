@@ -20,4 +20,4 @@ Embark on an exciting journey into data science with the Data Dunkers program, t
 
 ## Files
 
-*   [Peter\_Beens\_CEMC24\_Data\_Dunkers\_Presentation.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Peter_Beens/Peter_Beens_CEMC24_Data_Dunkers_Presentation.docx)
+*   [Peter\_Beens\_CEMC24\_Data\_Dunkers\_Presentation.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Peter_Beens/Peter_Beens_CEMC24_Data_Dunkers_Presentation.docx)

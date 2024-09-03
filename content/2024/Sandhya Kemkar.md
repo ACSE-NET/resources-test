@@ -17,5 +17,5 @@ TEJ2O -Students will work in their groups to complete the summative for the robo
 
 ## Files
 
-*   [TEJ2O\_Robotics\_unit\_assignment.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Sandhya_Kemkar/TEJ2O_Robotics_unit_assignment.docx)
-*   [TEJ3M\_lab\_assessment(\_ver\_2).docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Sandhya_Kemkar/TEJ3M_lab_assessment(_ver_2).docx)
+*   [TEJ2O\_Robotics\_unit\_assignment.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Sandhya_Kemkar/TEJ2O_Robotics_unit_assignment.docx)
+*   [TEJ3M\_lab\_assessment(\_ver\_2).docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Sandhya_Kemkar/TEJ3M_lab_assessment(_ver_2).docx)

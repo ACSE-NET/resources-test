@@ -18,6 +18,6 @@ Getting students to recognize that blindly accepting the terms of use and privac
 
 ## Files
 
-*   [Assignment\_-\_Exploring\_Data\_Privacy\_Concerns.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Catherine_McCaffery/Assignment_-_Exploring_Data_Privacy_Concerns.docx)
-*   [Example\_Privacy\_Policy\_-\_Beat\_Star.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Catherine_McCaffery/Example_Privacy_Policy_-_Beat_Star.docx)
-*   [Example\_Terms\_and\_Conditions\_-\_Beat\_Star.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Catherine_McCaffery/Example_Terms_and_Conditions_-_Beat_Star.docx)
+*   [Assignment\_-\_Exploring\_Data\_Privacy\_Concerns.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Catherine_McCaffery/Assignment_-_Exploring_Data_Privacy_Concerns.docx)
+*   [Example\_Privacy\_Policy\_-\_Beat\_Star.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Catherine_McCaffery/Example_Privacy_Policy_-_Beat_Star.docx)
+*   [Example\_Terms\_and\_Conditions\_-\_Beat\_Star.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Catherine_McCaffery/Example_Terms_and_Conditions_-_Beat_Star.docx)

@@ -16,5 +16,5 @@ This is intended as an assignment for ICS4U1 using a java environment called Gre
 
 ## Files
 
-*   [read\_me\_Conlon2024.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Peter_Conlon/read_me_Conlon2024.docx)
-*   [summer\_institute\_resource\_Conlon2024.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Peter_Conlon/summer_institute_resource_Conlon2024.docx)
+*   [read\_me\_Conlon2024.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Peter_Conlon/read_me_Conlon2024.docx)
+*   [summer\_institute\_resource\_Conlon2024.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Peter_Conlon/summer_institute_resource_Conlon2024.docx)

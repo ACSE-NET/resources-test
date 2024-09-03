@@ -15,11 +15,11 @@ The use of Artificial Intelligence has grown significantly over the past few yea
 
 ## Files
 
-*   [1\_Introduction.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Mark_Bouwmeester/1_Introduction.pdf)
-*   [2\_Planning\_TicTacToe.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Mark_Bouwmeester/2_Planning_TicTacToe.pdf)
-*   [3\_AI\_Player.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Mark_Bouwmeester/3_AI_Player.pdf)
-*   [4\_Project\_Instructions.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Mark_Bouwmeester/4_Project_Instructions.pdf)
-*   [AI.java](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Mark_Bouwmeester/AI.java)
-*   [Game.java](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Mark_Bouwmeester/Game.java)
-*   [Introduction\_to\_Q-Learning.pptx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Mark_Bouwmeester/Introduction_to_Q-Learning.pptx)
-*   [TicTacToe.java](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Mark_Bouwmeester/TicTacToe.java)
+*   [1\_Introduction.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Mark_Bouwmeester/1_Introduction.pdf)
+*   [2\_Planning\_TicTacToe.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Mark_Bouwmeester/2_Planning_TicTacToe.pdf)
+*   [3\_AI\_Player.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Mark_Bouwmeester/3_AI_Player.pdf)
+*   [4\_Project\_Instructions.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Mark_Bouwmeester/4_Project_Instructions.pdf)
+*   [AI.java](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Mark_Bouwmeester/AI.java)
+*   [Game.java](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Mark_Bouwmeester/Game.java)
+*   [Introduction\_to\_Q-Learning.pptx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Mark_Bouwmeester/Introduction_to_Q-Learning.pptx)
+*   [TicTacToe.java](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Mark_Bouwmeester/TicTacToe.java)

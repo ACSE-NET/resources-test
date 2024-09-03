@@ -15,4 +15,4 @@ Shopping guide for various industries. You and your partners will research and a
 
 ## Files
 
-*   [ID2O\_Shopping\_Guide\_for\_Various\_Industries.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Kitty_Wu/ID2O_Shopping_Guide_for_Various_Industries.pdf)
+*   [ID2O\_Shopping\_Guide\_for\_Various\_Industries.pdf](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Kitty_Wu/ID2O_Shopping_Guide_for_Various_Industries.pdf)

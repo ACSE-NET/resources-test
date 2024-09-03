@@ -14,4 +14,4 @@ You have been offered a job of working at an ice cream stand for the summer. Wri
 
 ## Files
 
-*   [ICD2O0\_Assignment\_-\_IceCreamCostCalculator.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/Michael_Seto/ICD2O0_Assignment_-_IceCreamCostCalculator.docx)
+*   [ICD2O0\_Assignment\_-\_IceCreamCostCalculator.docx](https://www.russellgordon.ca/acse/cemc-cse-resources/resources/2024/Michael_Seto/ICD2O0_Assignment_-_IceCreamCostCalculator.docx)
