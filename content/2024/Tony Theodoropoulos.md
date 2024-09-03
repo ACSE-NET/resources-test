@@ -5,14 +5,14 @@ tags:
   - flowcharts
 ---
 
-## Summary
+## Title
 
 Flowchart Assignment
 
-## Description
+## Abstract
 
 A flowchart assignment I use in my ICS3U class.
 
 ## Files
 
-*   [ATM\_Design.pdf](resources/Tony_Theodoropoulos/ATM_Design.pdf)
+*   [ATM\_Design.pdf](resources/2024/Tony_Theodoropoulos/ATM_Design.pdf)
