@@ -5,11 +5,11 @@ tags:
   - culminating
 ---
 
-## Title
+## Summary
 
 Culminating activity for the ICD2O course.
 
-## Abstract
+## Description
 
 Students design a computer program using elements of the SDLC.
 

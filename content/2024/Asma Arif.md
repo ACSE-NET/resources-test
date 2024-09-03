@@ -6,11 +6,11 @@ tags:
   - game
 ---
 
-## Title
+## Summary
 
 ICS3U Culminating Project
 
-## Abstract
+## Description
 
 Create a text-based computer game.
 

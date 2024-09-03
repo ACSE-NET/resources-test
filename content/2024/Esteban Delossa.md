@@ -7,11 +7,11 @@ tags:
   - scratch
 ---
 
-## Title
+## Summary
 
 Scratch Rocket Animation Assignment
 
-## Abstract
+## Description
 
 This could be used in TEJ3M or TEJ20 and TAS10.
 

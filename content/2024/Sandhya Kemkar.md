@@ -7,11 +7,11 @@ tags:
   - TEJ3M
 ---
 
-## Title
+## Summary
 
 TEJ2O Robotics unit summative assignment, TEJ3M Lab Assessment
 
-## Abstract
+## Description
 
 TEJ2O -Students will work in their groups to complete the summative for the robotics unit. Research in their groups to build a prototype /working model of a robot using resources and materials available such as sensors,servo motors and attachments.Students can also use arduino boards and breadboards to build their model.
 

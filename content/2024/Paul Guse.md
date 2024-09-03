@@ -5,11 +5,11 @@ tags:
   - rust
 ---
 
-## Title
+## Summary
 
 Rust - ICS4U
 
-## Abstract
+## Description
 
 This is an introduction to the Rust programming language including notes, exercises, and some assessments.
 

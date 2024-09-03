@@ -5,11 +5,11 @@ tags:
   - game
 ---
 
-## Title
+## Summary
 
 Checkers Assignment for senior Java project.
 
-## Abstract
+## Description
 
 The starting code and the instructions that I used for my Ap Programming 12 students.
 
